@@ -1,0 +1,12 @@
+.elementor-201 .elementor-element.elementor-element-35266e2e{margin-top:100px;margin-bottom:0px;padding:0px 20px 0px 20px;}.elementor-201 .elementor-element.elementor-element-6e222e81{animation-delay:100ms;}.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-modern-heading-secondary{font-family:"Nunito", Sans-serif;font-size:50px;font-weight:700;line-height:65px;letter-spacing:-1px;margin:0px 0px 45px 0px;max-width:600px;}@media(max-width:1024px){.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-modern-heading-secondary{font-size:39px;line-height:48px;margin:0px 0px 15px 0px;max-width:448px;}}@media(max-width:767px){.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-modern-heading-secondary{max-width:1600px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-6e222e81 */.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-head-before, .elementor-201 .elementor-element.elementor-element-6e222e81 .aux-head-highlight{
+background: var(--e-global-color-secondary);
+background: -moz-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: -webkit-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+.elementor-201 .elementor-element.elementor-element-6e222e81 .aux-modern-heading-description{
+    margin-right: auto;
+    margin-left: auto;
+}/* End custom CSS */
